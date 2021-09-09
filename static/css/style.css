@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+
+.card {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px;
+    overflow: hidden;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-item {
+    background: tomato:
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
